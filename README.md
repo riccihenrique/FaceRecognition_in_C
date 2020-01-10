@@ -5,7 +5,7 @@ A C++ app to face recognition using opencv and dlib
 - Compile and configure Dlib to visual studio. Read the documentation on <a href="http://dlib.net/compile.html">Dlib Documentation</a></br>
 - Compile and configure Opencv to visual studio. <a href="https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html">This tutorial maybe help</a></br>
 
-# Train
+# Training
 
 To train your own dataset:
 - Create folders with the name equal the label that you want recognize the person. In there, add photos of the people with only one face per photo.
