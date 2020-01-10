@@ -2,8 +2,8 @@
 A C++ app to face recognition using opencv and dlib
 
 # Dependences
-- Compile and configure Dlib to visual studio. Read the documentation on <a href="http://dlib.net/compile.html">Dlib Documentation</a>/br>
-- Compile and configure Opencv to visual studio.
+- Compile and configure Dlib to visual studio. Read the documentation on <a href="http://dlib.net/compile.html">Dlib Documentation</a></br>
+- Compile and configure Opencv to visual studio. <a href="https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html">This tutorial maybe help</a></br>
 
 # Train
 
@@ -17,5 +17,5 @@ To test the algorithm:
 - Execute the webcamTest function to use webCam or imgTest to use an image of your system.
 
 
-## ONLY USE IMAGES .BMP, BOTH IN TRAIN AND TEST. IMAGENS IN OTHER FORMAT DON'T WORK.
+## ONLY USE IMAGES .BMP, BOTH IN TRAINING AND TEST. IMAGES IN OTHER FORMATS DON'T WORK.
   
