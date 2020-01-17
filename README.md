@@ -2,8 +2,8 @@
 A C++ app to face recognition using opencv and dlib
 
 # Dependences
-- Compile and configure Dlib to visual studio. Read the documentation on <a href="http://dlib.net/compile.html">Dlib Documentation</a></br>
-- Compile and configure Opencv to visual studio. <a href="https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html">This tutorial maybe help</a></br>
+- Build and configure Dlib for visual studio. Read the documentation on <a href="http://dlib.net/compile.html">Dlib Documentation</a></br>
+- Build and configure Opencv for visual studio. <a href="https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html">This tutorial maybe help</a></br>
 
 # Training
 
